@@ -1,18 +1,26 @@
 # 582-adv-web-prog-tech
 582 - Advanced Web Programming Techniques course notes
 
-## Topics
+## Git
 
 ### [Git Basics](git/README.md)
 
+## Documentation and Planning
+
 ### [Documentation and Planning](doc/README.md)
+
+## Testing
 
 ### Testing
 
+## Codespaces
+
 ### Codespaces
+
+## Node
 
 ### Node
 
-### [MongoDB](mongodb/README.md)
+## MongoDB
 
-### SCSS
+### [MongoDB](mongodb/README.md)
