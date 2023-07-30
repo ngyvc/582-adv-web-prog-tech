@@ -105,9 +105,18 @@ Remove —global for local settings
 - Submit commits
 - PR to original
 
-### Exercises
-#### Basic
-- Create a page with multi member
-- Split a page creation to multi member
+## Exercises
+
+### Basic
+- Create a page and commit changes as you add new section or content
+
+### Intermediate
+- Fork my demo repo
+- PR
+- Commit, diff, rebase
+
+### Advanced
+- Create a project with another classmate
+- Split a page creation to your teammate
 - PR
 - Commit, diff, rebase
