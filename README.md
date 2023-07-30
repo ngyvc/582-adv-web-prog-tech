@@ -5,7 +5,7 @@
 
 ### [Git Basics](git/README.md)
 
-### Documentation and Planning
+### [Documentation and Planning](doc/README.md)
 
 ### Codespaces
 
