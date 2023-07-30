@@ -22,48 +22,6 @@
 - [Keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 - [The github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
 
-### Stages of a file
-- Committed
-- Modified
-- Staged
-- Untacked
-- Add
-(Working directory - staging area (index) - .git directory)
-
-### Running Commands
-
-#### Apps
-- Commend prompt
-- powershell
-- terminal
-- iTerm
-
-#### Commands
-- pwd (print working directory)
-- cd (change directory)
-- ls / dir (listing / directory)
-- touch / copy con (new file)
-- mkdir (make directory)
-
-### Git Configuration
-- git —version
-- git config —global user.name “name”
-- git config —global user.email “email”
-- git config —list
-Remove —global for local settings
-- man git (git manual, use :q to quit)
-
-### Git introduction
-- init
-- commit
-- branches
-- pull
-- push
-- diff
-- merge
-- fetch
-- rebase
-
 ### Why use Git?
 - History tracking
 - Multi version of a project
@@ -80,13 +38,62 @@ Remove —global for local settings
 - Not as user friendly
 - Hard to understand, but easy to use
 
+### Running Commands
+
+#### Apps
+
+- Commend prompt
+- powershell
+- terminal
+- iTerm
+
+#### Commands
+
+- pwd (print working directory)
+- cd (change directory)
+- ls / dir (listing / directory)
+- touch / copy con (new file)
+- mkdir (make directory)
+
+### Git Configuration
+
+- git —version
+- git config —global user.name “name”
+- git config —global user.email “email”
+- git config —list
+Remove —global for local settings
+- man git (git manual, use :q to quit)
+
+### Stages of a file
+
+- Committed
+- Modified
+- Staged
+- Untacked
+- Add
+(Working directory - staging area (index) - .git directory)
+
+### Git introduction
+
+- init
+- commit
+- branches
+- pull
+- push
+- diff
+- merge
+- fetch
+- rebase
+
 ### GitHub
+
 - Hosting service
 - Management tools
 - Social network on coding
 - Workflow
 
 ### PR (Pull request) workflow
+
 - Fork to clone project inside GitHub
 - Submit commits
 - PR to original
