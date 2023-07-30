@@ -105,6 +105,10 @@ Remove —global for local settings
 - Submit commits
 - PR to original
 
+### Intentionally untrack using .gitignore
+
+[.gitignore](https://git-scm.com/docs/gitignore)
+
 ## Exercises
 
 ### Basic
