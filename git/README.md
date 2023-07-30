@@ -66,10 +66,10 @@ Remove —global for local settings
 
 ### Stages of a file
 
+- Untracked
 - Committed
 - Modified
 - Staged
-- Untacked
 - Add
 (Working directory - staging area (index) - .git directory)
 
