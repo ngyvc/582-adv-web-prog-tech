@@ -1,5 +1,10 @@
 # Git
 
+## Top Tips
+- If you aren't sure about a git move, create a new branch (Branches are free!)
+- You can have as many branches as you want and switch between them before merging
+- You can always delete backup branches or do cleanup later
+
 ## Introduction to Git
 
 ### Essential links
@@ -31,7 +36,8 @@
 - Subversion control
 - Distributed control
 
-### Disadvantages & Myths
+### Advantages, disadvantages & Myths
+- Free and unlimited branching
 - Access - locked vs shared - team leader
 - Git is too heavy with all the history
 - Bad for binary files - images, videos
@@ -84,6 +90,7 @@ Remove —global for local settings
 - merge
 - fetch
 - rebase
+- checkout (github)
 
 ### GitHub
 
