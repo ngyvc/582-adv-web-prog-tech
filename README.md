@@ -7,6 +7,8 @@
 
 ### [Documentation and Planning](doc/README.md)
 
+### Testing
+
 ### Codespaces
 
 ### Node
@@ -14,5 +16,3 @@
 ### MongoDB
 
 ### SCSS
-
-### Testing
