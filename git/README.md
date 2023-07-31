@@ -89,6 +89,7 @@ Remove —global for local settings
 - Modified
 - Staged
 - Add
+
 (Working directory - staging area (index) - .git directory)
 
 ### Git introduction
