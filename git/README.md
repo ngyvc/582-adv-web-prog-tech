@@ -29,6 +29,7 @@
 
 #### Github Shortcuts
 
+- Use the . (period) key to change github repo view to developer mode
 - [Keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 - [The github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
 
