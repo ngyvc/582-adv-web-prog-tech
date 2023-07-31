@@ -32,6 +32,10 @@
 - [Keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 - [The github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
 
+#### Git for Plesk
+
+- [Git for Plesk](https://www.plesk.com/extensions/git/)
+
 ### Why use Git?
 
 - History tracking
@@ -116,6 +120,8 @@ Remove —global for local settings
 ### Intentionally untrack using .gitignore
 
 [.gitignore](https://git-scm.com/docs/gitignore)
+[.gitignore templates](https://github.com/github/gitignore/tree/main)
+[.gitignore template for Node](https://github.com/github/gitignore/blob/main/Node.gitignore)
 
 ## Exercises
 
