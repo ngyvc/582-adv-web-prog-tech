@@ -174,6 +174,10 @@ git checkout --track origin/new-branch
 
 - use PR for reviews and approval of updates
 
+[Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+
+[Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+
 ### Cherry pick
 
 ```git
