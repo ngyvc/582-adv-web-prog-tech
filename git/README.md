@@ -150,6 +150,10 @@ ex:
 
 - use PR for reviews and approval of updates
 
+### Cherry pick
+
+- cherry-pick SHA
+
 ### GitHub
 
 - Hosting service
