@@ -78,8 +78,8 @@
 
 ```git
 git —version
-git config —global user.name “name”
-git config —global user.email “email”
+git config —global user.name "name"
+git config —global user.email "email"
 git config —list
 ```
 
@@ -105,8 +105,8 @@ man git (git manual, use :q to quit)
 git init
 git add
 git commit
-git commit -m message
-git comment -am message
+git commit -m "message"
+git comment -am "message"
 git log --oneline
 git branch
 ```
