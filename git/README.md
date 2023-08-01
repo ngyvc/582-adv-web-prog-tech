@@ -96,15 +96,23 @@ Remove —global for local settings
 ### Git introduction
 
 - init
+- add
 - commit
-- branches
+- branch
+
+- clone
+- fetch
 - pull
 - push
-- diff
-- merge
-- fetch
+
+- checkout
 - rebase
-- checkout (github)
+- merge
+- diff
+
+- checkout -b new-branch
+- switch
+- branch -d
 
 ### GitHub
 
