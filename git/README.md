@@ -114,6 +114,11 @@ Remove —global for local settings
 
 ### Rebase Branches
 
+- swtich branch
+- rebase main
+- reflog
+- pull --rebase
+
 ### Merging Branches
 
 - diff branch1 branch2
