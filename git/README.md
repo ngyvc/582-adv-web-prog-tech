@@ -147,8 +147,8 @@ git merge source
 ex:
 
 ```git
-git git checkout main
-git git merge feature/js
+git checkout main
+git merge feature/js
 ```
 
 ### Cloning remote
