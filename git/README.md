@@ -135,6 +135,16 @@ ex:
 - pull
 - push
 
+- ls-remote
+- push -u origin new-branch
+- fetch original new-branch
+- branch -a
+- checkout --track origin/new-branch
+
+### PR - Pull Request
+
+- use PR for reviews and approval of updates
+
 ### GitHub
 
 - Hosting service
