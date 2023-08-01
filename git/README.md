@@ -76,12 +76,18 @@
 
 ### Git Configuration
 
-- git —version
-- git config —global user.name “name”
-- git config —global user.email “email”
-- git config —list
+```git
+git —version
+git config —global user.name “name”
+git config —global user.email “email”
+git config —list
+```
+
 Remove —global for local settings
-- man git (git manual, use :q to quit)
+
+```git
+man git (git manual, use :q to quit)
+```
 
 ### Stages of a file
 
@@ -95,56 +101,74 @@ Remove —global for local settings
 
 ### Git introduction
 
-- init
-- add
-- commit
-- commit -m message
-- comment -am message
-- log --oneline
-- branch
+```git
+git init
+git add
+git commit
+git commit -m message
+git comment -am message
+git log --oneline
+git branch
+```
 
-- checkout
-- rebase
-- merge
-- diff
+```git
+git checkout
+git rebase
+git merge
+git diff
+```
 
-- checkout -b new-branch
-- switch
-- branch -d
+```git
+git checkout -b new-branch
+git switch
+git branch -d
+```
 
 ### Rebase Branches
 
-- swtich branch
-- rebase main
-- reflog
-- pull --rebase
+```git
+git swtich branch
+git rebase main
+git reflog
+git pull --rebase
+```
 
 ### Merging Branches
 
-- diff branch1 branch2
+```git
+git diff branch1 branch2
+```
 
-- checkout target
-- merge source
+```git
+git checkout target
+git merge source
+```
 
 ex:
 
-- git checkout main
-- git merge feature/js
+```git
+git git checkout main
+git git merge feature/js
+```
 
 ### Cloning remote
 
-- clone remote-url
-- remote -v
-- remote update
-- fetch
-- pull
-- push
+```git
+git clone remote-url
+git remote -v
+git remote update
+git fetch
+git pull
+git push
+```
 
-- ls-remote
-- push -u origin new-branch
-- fetch original new-branch
-- branch -a
-- checkout --track origin/new-branch
+```git
+git ls-remote
+git push -u origin new-branch
+git fetch original new-branch
+git branch -a
+git checkout --track origin/new-branch
+```
 
 ### PR - Pull Request
 
@@ -152,7 +176,9 @@ ex:
 
 ### Cherry pick
 
-- cherry-pick SHA
+```git
+git cherry-pick SHA
+```
 
 ### GitHub
 
