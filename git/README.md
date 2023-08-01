@@ -98,12 +98,10 @@ Remove —global for local settings
 - init
 - add
 - commit
+- commit -m message
+- comment -am message
+- log --oneline
 - branch
-
-- clone
-- fetch
-- pull
-- push
 
 - checkout
 - rebase
@@ -113,6 +111,29 @@ Remove —global for local settings
 - checkout -b new-branch
 - switch
 - branch -d
+
+### Rebase Branches
+
+### Merging Branches
+
+- diff branch1 branch2
+
+- checkout target
+- merge source
+
+ex:
+
+- git checkout main
+- git merge feature/js
+
+### Cloning remote
+
+- clone remote-url
+- remote -v
+- remote update
+- fetch
+- pull
+- push
 
 ### GitHub
 
