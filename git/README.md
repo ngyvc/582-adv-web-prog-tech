@@ -10,6 +10,8 @@
 
 ### Essential links
 
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
 #### Using Git Locally
 
 - [Git](https://git-scm.com/)
