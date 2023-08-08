@@ -14,9 +14,9 @@
 
 ### [Testing](testing/README.md)
 
-## Codespaces
+## Prerequisites
 
-### [Codespaces](codespaces/README.md)
+### [Prerequisites](prerequisites/README.md)
 
 ## Node
 
@@ -25,3 +25,7 @@
 ## MongoDB
 
 ### [MongoDB](mongodb/README.md)
+
+## Codespaces
+
+### [Codespaces](codespaces/README.md)
