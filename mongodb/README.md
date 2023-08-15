@@ -24,3 +24,6 @@
 
 - [Connect to MongoDB](https://www.mongodb.com/docs/drivers/node/current/quick-start/connect-to-mongodb/)
 - [Quick Start with Node.js - Full Guide](https://www.mongodb.com/docs/drivers/node/current/quick-start/)
+
+- [Express sample page](https://expressjs.com/en/starter/hello-world.html)
+- [Express body-parser middleware](https://expressjs.com/en/resources/middleware/body-parser.html)
