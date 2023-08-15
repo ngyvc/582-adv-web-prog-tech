@@ -27,3 +27,5 @@
 
 - [Express sample page](https://expressjs.com/en/starter/hello-world.html)
 - [Express body-parser middleware](https://expressjs.com/en/resources/middleware/body-parser.html)
+
+- [Update example](https://www.mongodb.com/docs/v6.2/reference/method/db.collection.updateOne/#examples)
