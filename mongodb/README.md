@@ -19,3 +19,4 @@
 - [Update Operators](https://www.mongodb.com/docs/manual/reference/operator/update/)
 - [Quick Start with Node.js](https://www.mongodb.com/docs/drivers/node/current/quick-start/)
 - [Quick Reference](https://www.mongodb.com/docs/drivers/node/current/quick-reference/)
+- [SQL to MongoDB Mapping Chart](https://www.mongodb.com/docs/v5.0/reference/sql-comparison/)

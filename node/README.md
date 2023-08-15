@@ -13,7 +13,7 @@
 
 ## Node basics
 
-Create a HTML file named ```index.html```
+Create a HTML file named ```index.js```
 
 ```js
 console.log("Hello World!");
