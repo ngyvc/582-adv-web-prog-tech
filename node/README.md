@@ -10,6 +10,7 @@
 - [Guides](https://nodejs.org/en/docs/guides)
 - [Getting Started](https://nodejs.org/en/docs/guides/getting-started-guide)
 - [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction)
+- [Express - Routing](https://expressjs.com/en/guide/routing.html)
 
 ## Node basics
 
